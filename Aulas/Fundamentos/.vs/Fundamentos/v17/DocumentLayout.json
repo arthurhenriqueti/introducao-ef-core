@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764508F7-BCA7-4D49-89A1-6D0FDBF1D3BD}|PrimeiroProjeto\\PrimeiroProjeto.csproj|d:\\dev\\cursos\\introducao-ef-core\\aulas\\fundamentos\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764508F7-BCA7-4D49-89A1-6D0FDBF1D3BD}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29534939-328E-4146-A339-052732C507DD}|SistemaPedidos\\SistemaPedidos.csproj|d:\\dev\\cursos\\introducao-ef-core\\aulas\\fundamentos\\sistemapedidos\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29534939-328E-4146-A339-052732C507DD}|SistemaPedidos\\SistemaPedidos.csproj|solutionrelative:sistemapedidos\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29534939-328E-4146-A339-052732C507DD}|SistemaPedidos\\SistemaPedidos.csproj|d:\\dev\\cursos\\introducao-ef-core\\aulas\\fundamentos\\sistemapedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29534939-328E-4146-A339-052732C507DD}|SistemaPedidos\\SistemaPedidos.csproj|solutionrelative:sistemapedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\PrimeiroProjeto\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\PrimeiroProjeto\\Program.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABhAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\SistemaPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\SistemaPedidos\\Program.cs",
+              "RelativeToolTip": "SistemaPedidos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:06:24.86Z",
+              "WhenOpened": "2024-10-02T18:23:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\SistemaPedidos\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "SistemaPedidos\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\dev\\cursos\\introducao-ef-core\\Aulas\\Fundamentos\\SistemaPedidos\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "SistemaPedidos\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:17:29.284Z",
               "EditorCaption": ""
             }
           ]

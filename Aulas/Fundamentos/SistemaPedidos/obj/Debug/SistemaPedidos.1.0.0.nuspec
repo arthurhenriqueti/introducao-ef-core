@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SistemaPedidos</id>
+    <version>1.0.0</version>
+    <authors>SistemaPedidos</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="92ef2ce402420b438cd8510b6a4eb2c5db2b7661" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dev\cursos\introducao-ef-core\Aulas\Fundamentos\SistemaPedidos\bin\Debug\net8.0\SistemaPedidos.runtimeconfig.json" target="lib\net8.0\SistemaPedidos.runtimeconfig.json" />
+    <file src="D:\dev\cursos\introducao-ef-core\Aulas\Fundamentos\SistemaPedidos\bin\Debug\net8.0\SistemaPedidos.dll" target="lib\net8.0\SistemaPedidos.dll" />
+  </files>
+</package>
