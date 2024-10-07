@@ -8,10 +8,12 @@ namespace SistemaPedidos.Data
     public class ApplicationContext : DbContext
     {
         public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb); Initial Catalog=SistemaPedidos; Integrated Security=true");
+            optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
